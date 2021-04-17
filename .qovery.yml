@@ -1,5 +1,5 @@
 application:
-  name: simple-example-node-with-postgresql
+  name: simple
   project: myproject
   publicly_accessible: true
 databases:
