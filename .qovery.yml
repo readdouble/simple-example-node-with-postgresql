@@ -1,6 +1,6 @@
 application:
   name: simple-example-node-with-postgresql
-  project: simple-example-node-with-postgresql-2
+  project: nodejsanddb
   publicly_accessible: true
 databases:
 - type: postgresql
